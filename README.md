@@ -14,7 +14,7 @@ CSS,SaSS,HTML,JavaScript kullanılmıştır.
 
 <h3> Live Website </h3>
 
-travellingwebsite-gamzeyaylaonu.netlify.app
+https://travellingwebsite-gamzeyaylaonu.netlify.app
 
 
 ![Thankyou GifGIF](https://github.com/gamzeyaylaonu/travelling-website/assets/135466558/4d84e47b-f9e1-4321-9761-e0f3be475783)
